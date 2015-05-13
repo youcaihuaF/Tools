@@ -1,7 +1,6 @@
 //
 //  UIImage+WaterImage.m
-//  我
-//
+
 //  Created by daming on 15-5-13.
 //  Copyright (c) 2015年 daming. All rights reserved.
 //
